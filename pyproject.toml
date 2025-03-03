@@ -1,6 +1,6 @@
 [project]
 name = "compyr"
-version = "0.0.1"
+version = "0.0.0"
 description = "Testing framework for porting R functions over to Python"
 authors = [{ name = "Alexander Socarras", email = "apsocarras.dev@gmail.com" }]
 readme = "README.md"
