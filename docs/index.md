@@ -5,4 +5,4 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/apsocarras/compyr)](https://img.shields.io/github/commit-activity/m/apsocarras/compyr)
 [![License](https://img.shields.io/github/license/apsocarras/compyr)](https://img.shields.io/github/license/apsocarras/compyr)
 
-Testing fTesting framework for porting R functions over to Python
+Testing framework for porting R functions over to Python
